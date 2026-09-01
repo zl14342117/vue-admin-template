@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'LiteOps 练手后台',
 
   /**
    * @type {boolean} true | false
